@@ -1,2 +1,2 @@
-# turing-machine-simulator
-A Turing Machine Simulator to build and run TM based code
+# automata-machine-simulator
+An Atomata and Turing Machine Simulator to build and run automata and TM based code
